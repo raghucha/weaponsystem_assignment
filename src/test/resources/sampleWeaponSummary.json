@@ -1,0 +1,103 @@
+[
+    {
+        "weapon": "Home One",
+        "commands": [
+            {
+                "id": 5,
+                "weaponSystem": "Home One",
+                "battleship": "heavy laser cannons",
+                "target": "Executor",
+                "quantity": 1000,
+                "rate": 30
+            },
+            {
+                "id": 6,
+                "weaponSystem": "Home One",
+                "battleship": "quad-bolt cannons",
+                "target": "Razor Crest",
+                "quantity": 1000,
+                "rate": 50
+            },
+            {
+                "id": 8,
+                "weaponSystem": "Home One",
+                "battleship": "quad-bolt cannons",
+                "target": "Executor",
+                "quantity": 1000,
+                "rate": 10
+            },
+            {
+                "id": 10,
+                "weaponSystem": "Home One",
+                "battleship": "quad-bolt cannons",
+                "target": "Razor Crest",
+                "quantity": 1000,
+                "rate": 30
+            }
+        ],
+        "totalQuantity": 4000,
+        "averageRate": 30
+    },
+    {
+        "weapon": "Millennium Falcon",
+        "commands": [
+            {
+                "id": 1,
+                "weaponSystem": "Millennium Falcon",
+                "battleship": "heavy laser cannons",
+                "target": "Imperial Star Destroyer",
+                "quantity": 10000,
+                "rate": 100
+            },
+            {
+                "id": 2,
+                "weaponSystem": "Millennium Falcon",
+                "battleship": "quad-bolt cannons",
+                "target": "Death Star",
+                "quantity": 1000,
+                "rate": 700
+            },
+            {
+                "id": 9,
+                "weaponSystem": "Millennium Falcon",
+                "battleship": "heavy laser cannons",
+                "target": "Imperial Star Destroyer",
+                "quantity": 2000,
+                "rate": 100
+            }
+        ],
+        "totalQuantity": 13000,
+        "averageRate": 300
+    },
+    {
+        "weapon": "Tantive IV",
+        "commands": [
+            {
+                "id": 3,
+                "weaponSystem": "Tantive IV",
+                "battleship": "anti-ship turbolasers",
+                "target": "Razor Crest",
+                "quantity": 1000,
+                "rate": 10
+            },
+            {
+                "id": 4,
+                "weaponSystem": "Tantive IV",
+                "battleship": "tractor beam projector",
+                "target": "Death Star",
+                "quantity": 2000,
+                "rate": 100
+            },
+            {
+                "id": 7,
+                "weaponSystem": "Tantive IV",
+                "battleship": "anti-ship turbolasers",
+                "target": "Executor",
+                "quantity": 1000,
+                "rate": 700
+            }
+        ],
+        "totalQuantity": 4000,
+        "averageRate": 270
+    }
+]
